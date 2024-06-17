@@ -1,0 +1,2 @@
+# MeriSKILL-DataAnalysis-Projects
+1. DIABETES PREDICTION SYSTEM 
