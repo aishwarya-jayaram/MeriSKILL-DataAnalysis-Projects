@@ -25,6 +25,8 @@ COLUMN DESCRIPTION FOR DIABETES DATA:
 2. HR ANALYTICS SYSTEM
 
 The HR analytics system utilizes Python libraries like pandas for data handling, matplotlib for plotting, seaborn for enhanced visualizations, and scikit-learn for machine learning tasks. It employs Logistic Regression for analysis and StandardScaler for data normalization. The system visualizes correlations among various HR-related variables like Overtime, Marital Status, Job Role, Gender, Education Field, Department, and Business Travel. It also explores relationships between Overtime and Age, Total Working Years, Education Level, Number of Companies Worked, and Distance from Home to gain insights into HR trends and patterns.
+
+
 • Plot a correlation map for all numeric variable Overtime
 • Marital Status
 • Job Role
